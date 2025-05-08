@@ -1,5 +1,7 @@
 # Crunchbase Scraper
 
+[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/crunchbase)
+
 This repository provides two approaches for extracting business intelligence data from Crunchbase:
 
 1. **Basic Scraper Script:** Lightweight, browser-automated scraper for limited data collection.
