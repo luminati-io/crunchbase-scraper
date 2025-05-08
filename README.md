@@ -47,7 +47,7 @@ This script collects publicly available data points, including:
 
 ### Implementation
 
-1. **Get the Code:** Access the script file here: [free-crunchbase-scraper/crunchbase-scraper.py](https://github.com/triposat/Crunchbase-Scraper/blob/main/free-crunchbase-scraper/crunchbase-scraper.py)
+1. **Get the Code:** Access the script file here: [free-crunchbase-scraper/crunchbase-scraper.py](https://github.com/luminati-io/crunchbase-scraper/blob/main/free-crunchbase-scraper/crunchbase-scraper.py)
 2. **Set Target URL:** Open the script and modify the `target_url` variable to the specific Crunchbase company profile you wish to scrape.
     
     ```python
@@ -120,7 +120,7 @@ The [Bright Data Crunchbase Scraper API](https://brightdata.com/products/web-scr
 1. **Create Account:** Sign up for a [Bright Data account](https://brightdata.com/) *(New users receive $5 credits after adding a payment method)*.
 2. **Generate API Token:** Obtain your unique [API key](https://docs.brightdata.com/general/account/api-token) from your dashboard.
 3. **Implementation Guide:** For detailed configuration steps for both API methods and No-Code interface, see:
-[setup-bright-data-crunchbase-scraper.md](https://github.com/triposat/Crunchbase-Scraper/blob/main/setup-bright-data-crunchbase-scraper.md)
+[setup-bright-data-crunchbase-scraper.md](https://github.com/luminati-io/crunchbase-scraper/blob/main/setup-bright-data-crunchbase-scraper.md)
 
 
 ### API Methods
@@ -153,7 +153,7 @@ config = {
 
 - Replace `"YOUR_API_TOKEN"` with your actual Bright Data API token.
 - Modify the `organizations` list with your target Crunchbase URLs.
-- See the full runnable script: [crunchbase-scraper-api/crunchbase-profile-fetcher.py](https://github.com/triposat/Crunchbase-Scraper/blob/main/crunchbase-scraper-api/crunchbase-profile-fetcher.py)
+- See the full runnable script: [crunchbase-scraper-api/crunchbase-profile-fetcher.py](https://github.com/luminati-io/crunchbase-scraper/blob/main/crunchbase-scraper-api/crunchbase-profile-fetcher.py)
 
 **Example Request (cURL):**
 
@@ -196,7 +196,7 @@ The API returns comprehensive, structured data. Below is a small fraction of the
 }
 ```
 
-View complete sample response: [crunchbase-data/crunchbase-company-profiles.json](https://github.com/triposat/Crunchbase-Scraper/blob/main/crunchbase-data/crunchbase-company-profiles.json)
+View complete sample response: [crunchbase-data/crunchbase-company-profiles.json](https://github.com/luminati-io/crunchbase-scraper/blob/main/crunchbase-data/crunchbase-company-profiles.json)
 
 ### B. Discover Crunchbase Data by Keyword
 
@@ -228,7 +228,7 @@ config = {
 
 - Replace `"YOUR_API_TOKEN"`.
 - Modify the `keywords` list.
-- See the full runnable script: [`crunchbase-scraper-api/crunchbase-keyword-search.py`](https://github.com/triposat/Crunchbase-Scraper/blob/main/crunchbase-scraper-api/crunchbase-keyword-search.py)
+- See the full runnable script: [`crunchbase-scraper-api/crunchbase-keyword-search.py`](https://github.com/luminati-io/crunchbase-scraper/blob/main/crunchbase-scraper-api/crunchbase-keyword-search.py)
 
 **Example Request (cURL):**
 
@@ -270,7 +270,7 @@ The response includes data for *multiple* companies matching the keyword search.
 }
 ```
 
-View complete sample response: [crunchbase-data/crunchbase-keyword-results.json](https://github.com/triposat/Crunchbase-Scraper/blob/main/crunchbase-data/crunchbase-keyword-results.json)
+View complete sample response: [crunchbase-data/crunchbase-keyword-results.json](https://github.com/luminati-io/crunchbase-scraper/blob/main/crunchbase-data/crunchbase-keyword-results.json)
 
 ### API Configuration & Delivery Options
 
@@ -294,7 +294,7 @@ For comprehensive documentation on the Web Scraper API and triggering collection
 
 ### No-Code Scraper Interface
 
-For users who prefer a visual, point-and-click approach, Bright Data also offers the [No-Code Scraper](https://brightdata.com/products/web-scraper/no-code). This interface allows you to configure and launch Crunchbase data collection tasks using the same powerful underlying infrastructure, without writing any code. See the [Setup Guide](https://github.com/triposat/Crunchbase-Scraper/blob/main/setup-bright-data-crunchbase-scraper.md) for guidance.
+For users who prefer a visual, point-and-click approach, Bright Data also offers the [No-Code Scraper](https://brightdata.com/products/web-scraper/no-code). This interface allows you to configure and launch Crunchbase data collection tasks using the same powerful underlying infrastructure, without writing any code. See the [Setup Guide](https://github.com/luminati-io/crunchbase-scraper/blob/main/setup-bright-data-crunchbase-scraper.md) for guidance.
 
 ## Alternative: Pre-Collected Crunchbase Datasets
 
@@ -319,5 +319,5 @@ If you require immediate access to large amounts of structured Crunchbase data w
 - **Guides & Blog Posts:**
     - [How to Scrape Crunchbase (Comprehensive Guide)](https://brightdata.com/blog/web-data/how-to-scrape-crunchbase)
     - [Web Scraping Without Getting Blocked](https://brightdata.com/blog/web-data/web-scraping-without-getting-blocked)
-    - [Setup Guide for Bright Data Crunchbase Scraper (in this repo)](https://github.com/triposat/Crunchbase-Scraper/blob/main/setup-bright-data-crunchbase-scraper.md)
+    - [Setup Guide for Bright Data Crunchbase Scraper (in this repo)](https://github.com/luminati-io/crunchbase-scraper/blob/main/setup-bright-data-crunchbase-scraper.md)
 - **Technical Support:** Contact the Bright Data support team 24/7 via your account dashboard or email at [support@brightdata.com](mailto:support@brightdata.com).
