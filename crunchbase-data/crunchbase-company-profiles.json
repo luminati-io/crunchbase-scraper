@@ -1,0 +1,2483 @@
+[
+  {
+    "input": {
+      "url": "https://www.crunchbase.com/organization/apple"
+    },
+    "name": "Apple",
+    "url": "https://www.crunchbase.com/organization/apple",
+    "id": "apple",
+    "cb_rank": 2379,
+    "region": "California",
+    "about": "Apple is a technology company that designs, manufactures, and markets consumer electronics, personal computers, and software.",
+    "industries": [
+      {
+        "id": "artificial-intelligence",
+        "value": "Artificial Intelligence (AI)"
+      },
+      {
+        "id": "consumer-electronics",
+        "value": "Consumer Electronics"
+      },
+      {
+        "id": "mobile-devices",
+        "value": "Mobile Devices"
+      },
+      {
+        "id": "operating-systems",
+        "value": "Operating Systems"
+      },
+      {
+        "id": "wearables",
+        "value": "Wearables"
+      }
+    ],
+    "operating_status": "active",
+    "company_type": "for_profit",
+    "social_media_links": [
+      "https://www.facebook.com/apple",
+      "https://www.linkedin.com/company/apple",
+      "https://x.com/apple"
+    ],
+    "founded_date": "1976-04-01",
+    "num_employees": "10001+",
+    "country_code": "United States",
+    "website": "https://www.apple.com",
+    "contact_phone": "+1 408-996-1010",
+    "featured_list": [
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 3883968236894,
+          "value_usd": 3883968236894
+        },
+        "org_num": 9939,
+        "org_num_investors": 100565,
+        "title": "Investment Bank Funded Companies (Top 10K)"
+      },
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 1745038212613,
+          "value_usd": 1745038212613
+        },
+        "org_num": 9886,
+        "org_num_investors": 9682,
+        "title": "Investors Active in Southern US (Top 10K)"
+      },
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 4315045549682,
+          "value_usd": 4315045549682
+        },
+        "org_num": 9983,
+        "org_num_investors": 72213,
+        "title": "United States Companies With More Than 100 Employees (Top 10K)"
+      },
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 505109058011,
+          "value_usd": 505109058011
+        },
+        "org_num": 558,
+        "org_num_investors": 5294,
+        "title": "San Francisco Bay Area Public Companies With More Than 10 Employees"
+      }
+    ],
+    "full_description": "Apple is a corporation that designs, manufactures, and markets mobile communication and media devices, personal computers, portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications.\n\n\nApple provides many products and services, including iPhone; iPad; iPod; Mac; Apple TV; a portfolio of consumer and professional software applications; the iOS and OS X operating systems; iCloud; and accessories, service, and support offerings. \n\n\nIt sells its products worldwide through its retail stores, online stores, direct sales force and third-party cellular network carriers, wholesalers, retailers, and value-added resellers to the consumer and also sells third-party iPhone, iPad, Mac and iPod compatible products, including application software and accessories through its online and retail stores.\n\n\nIntroduced in 1984, the Macintosh was the first widely sold personal computer with a graphical user interface (GUI). That feature and others such as an improved floppy drive design and a low-cost hard drive that made data retrieval faster helped Apple cultivate a reputation for innovation.\n\n\nApple was named as the most admired company in the United States in 2008 and in the world from 2008 to 2012 by the Fortune magazine.\n\n\nThe company was founded by Steven Paul Jobs, Steve Wozniak, and Ronald Gerald Wayne on April 1, 1976, and is headquartered in Cupertino, California.",
+    "type": "company",
+    "uuid": "7063d087-96b8-2cc1-ee88-c221288acc2a",
+    "active_tech_count": 8,
+    "builtwith_num_technologies_used": 8,
+    "builtwith_tech": [
+      {
+        "name": "IPhone / Mobile Compatible",
+        "num_companies_using": "999532",
+        "technology_category": [
+          "mobile"
+        ]
+      },
+      {
+        "name": "Viewport Meta",
+        "num_companies_using": "999530",
+        "technology_category": [
+          "mobile"
+        ]
+      },
+      {
+        "name": "HSTS",
+        "num_companies_using": "687315",
+        "technology_category": [
+          "ssl"
+        ]
+      },
+      {
+        "name": "Organization Schema",
+        "num_companies_using": "457822",
+        "technology_category": [
+          "framework"
+        ]
+      },
+      {
+        "name": "HSTS IncludeSubdomains PreLoad",
+        "num_companies_using": "184748",
+        "technology_category": [
+          "ssl"
+        ]
+      },
+      {
+        "name": "ContactPoint Schema",
+        "num_companies_using": "52904",
+        "technology_category": [
+          "framework"
+        ]
+      },
+      {
+        "name": "SEO_H2",
+        "num_companies_using": "11203",
+        "technology_category": [
+          "seo_headers"
+        ]
+      },
+      {
+        "name": "SEO_H1",
+        "num_companies_using": "10745",
+        "technology_category": [
+          "seo_headers"
+        ]
+      }
+    ],
+    "ipo_status": "public",
+    "similar_companies": [
+      {
+        "link": "https://www.crunchbase.com/organization/flashpcb",
+        "name": "FlashPCB"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/a-movil",
+        "name": "A-Movil"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/disruptive-design",
+        "name": "Disruptive Design"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/yikyok",
+        "name": "YikYok"
+      }
+    ],
+    "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/s1cihnpc1cnekihotv0e",
+    "monthly_visits": 736382951,
+    "semrush_visits_latest_month": 736382951,
+    "semrush_last_updated": "2025-03-10",
+    "monthly_visits_growth": -0.00259210425584285,
+    "semrush_visits_mom_pct": -0.00259210425584285,
+    "num_contacts": 9771,
+    "num_contacts_linkedin": 9771,
+    "num_employee_profiles": 883,
+    "total_active_products": 44,
+    "num_news": 100000,
+    "funding_rounds": {
+      "last_funding_at": "2021-04-30T00:00:00.000Z",
+      "last_funding_type": "post_ipo_equity",
+      "num_funding_rounds": 7,
+      "value": {
+        "currency": "USD",
+        "value": 1170230000,
+        "value_usd": 1170230000
+      }
+    },
+    "bombora_last_updated": "2025-04-27",
+    "num_investors": 8,
+    "legal_name": "Apple Inc.",
+    "num_event_appearances": 45,
+    "num_acquisitions": 136,
+    "num_investments": 32,
+    "num_advisor_positions": 22,
+    "num_exits": 15,
+    "num_investments_lead": 22,
+    "num_sub_organizations": 5,
+    "num_alumni": 2,
+    "num_diversity_spotlight_investments": 2,
+    "num_founder_alumni": 1,
+    "num_funds": 2,
+    "stock_symbol": "NASDAQ:AAPL",
+    "location": [
+      {
+        "name": "Cupertino",
+        "permalink": "cupertino-california"
+      },
+      {
+        "name": "California",
+        "permalink": "california-united-states"
+      },
+      {
+        "name": "United States",
+        "permalink": "united-states"
+      },
+      {
+        "name": "North America",
+        "permalink": "north-america"
+      }
+    ],
+    "address": "Cupertino, California, United States, North America",
+    "contacts": [
+      {
+        "departments": [
+          "management"
+        ],
+        "job_title": "Advisor",
+        "levels": [
+          "l_500_exec"
+        ],
+        "linkedin_id": "aktar-ahmed-shaik-26604b159",
+        "name": "Aktar Shaik"
+      }
+    ],
+    "current_employees": [
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/aj5cf7xkyto2tuyhrpzv",
+        "name": "Tim Cook",
+        "permalink": "tim-cook",
+        "title": "CEO"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/v1397184365/f24b06153353a16838d756528560aecd.png",
+        "name": "Jeffrey E. Williams",
+        "permalink": "jeffrey-e-williams",
+        "title": "COO"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/f2a6aa516b4544dabac84e226757e964",
+        "name": "Carol Surface",
+        "permalink": "carol-surface-7011",
+        "title": "CPO"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/ouwoujluvp1s0frveocx",
+        "name": "Inguss Pavasars",
+        "permalink": "inguss-pavasars",
+        "title": "Director"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/v1397186657/fdc5ffc88a025adae34eb6d89a1d071e.jpg",
+        "name": "Katherine L. Adams",
+        "permalink": "katherine-l-adams",
+        "title": "SVP & General Counsel"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/v1491549545/lflgloixpcydqdlj5fjk.png",
+        "name": "Eddy Cue",
+        "permalink": "eddy-cue",
+        "title": "SVP of Services"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/v1491549828/qthqfdkq5g1yaeczxjif.png",
+        "name": "Craig Federighi",
+        "permalink": "craig-federighi",
+        "title": "SVP, Software Engineering"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/v1497385032/svjg33cd6utummtemme2.png",
+        "name": "John Giannandrea",
+        "permalink": "john-giannandrea",
+        "title": "SVP Machine Learning and AI Strategy"
+      }
+    ],
+    "semrush_location_list": [
+      {
+        "locations": [
+          {
+            "name": "United States",
+            "permalink": "united-states"
+          },
+          {
+            "name": "North America",
+            "permalink": "north-america"
+          }
+        ],
+        "rank": 49,
+        "rank_mom_pct": 0.0208333333333333,
+        "visits_mom_pct": "-0.0293044161853452",
+        "visits_pct": 0.288079504980283
+      },
+      {
+        "locations": [
+          {
+            "name": "India",
+            "permalink": "india"
+          },
+          {
+            "name": "Asia",
+            "permalink": "asia"
+          }
+        ],
+        "rank": 87,
+        "rank_mom_pct": -0.0645161290322581,
+        "visits_mom_pct": "0.136622276783457",
+        "visits_pct": 0.0609347431782135
+      },
+      {
+        "locations": [
+          {
+            "name": "Japan",
+            "permalink": "japan"
+          },
+          {
+            "name": "Asia",
+            "permalink": "asia"
+          }
+        ],
+        "rank": 107,
+        "rank_mom_pct": -0.0854700854700855,
+        "visits_mom_pct": "-0.07947534060565",
+        "visits_pct": 0.0426395056503691
+      },
+      {
+        "locations": [
+          {
+            "name": "United Kingdom",
+            "permalink": "united-kingdom"
+          },
+          {
+            "name": "Europe",
+            "permalink": "europe"
+          }
+        ],
+        "rank": 65,
+        "rank_mom_pct": -0.0845070422535211,
+        "visits_mom_pct": "0.0499355259629688",
+        "visits_pct": 0.0417408224324846
+      },
+      {
+        "locations": [
+          {
+            "name": "Russian Federation",
+            "permalink": "russian-federation"
+          },
+          {
+            "name": "Europe",
+            "permalink": "europe"
+          }
+        ],
+        "rank": 142,
+        "rank_mom_pct": -0.0206896551724138,
+        "visits_mom_pct": "0.241453925475335",
+        "visits_pct": 0.0346877911354577
+      }
+    ],
+    "siftery_products": [
+      {
+        "product_num_customers": 439507,
+        "status": "using",
+        "title": "HTML5"
+      },
+      {
+        "status": "not_using",
+        "title": "Bootstrap"
+      },
+      {
+        "status": "using",
+        "title": "Vimeo"
+      },
+      {
+        "status": "not_using",
+        "title": "Facebook"
+      },
+      {
+        "status": "not_using",
+        "title": "Facebook Comments"
+      },
+      {
+        "status": "using",
+        "title": "Google Drive"
+      },
+      {
+        "status": "not_using",
+        "title": "Comodo PositiveSSL Certificates"
+      },
+      {
+        "status": "using",
+        "title": "Google Analytics"
+      },
+      {
+        "status": "not_using",
+        "title": "F5 NGINX"
+      },
+      {
+        "status": "not_using",
+        "title": "DigiCert"
+      }
+    ],
+    "funding_rounds_list": [
+      {
+        "announced_on": "2021-04-30",
+        "id": "apple-post-ipo-equity--45845def",
+        "uuid": "45845def-e18d-4db8-abb6-c0d3d82624d3",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "title": "Post-IPO Equity - Apple"
+      },
+      {
+        "announced_on": "2019-03-25",
+        "money_raised": {
+          "currency": "USD",
+          "value": 15000000,
+          "value_usd": 15000000
+        },
+        "id": "apple-post-ipo-secondary--03526bea",
+        "uuid": "03526bea-cf16-44af-a317-eed58eae8865",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "title": "Post-IPO Secondary - Apple"
+      },
+      {
+        "announced_on": "2017-09-06",
+        "money_raised": {
+          "currency": "USD",
+          "value": 5000000,
+          "value_usd": 5000000
+        },
+        "id": "apple-undisclosed--b81d3aa0",
+        "uuid": "b81d3aa0-5244-4dcd-da94-3c0e836175c3",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "title": "Funding Round - Apple"
+      },
+      {
+        "announced_on": "2016-05-16",
+        "money_raised": {
+          "currency": "USD",
+          "value": 1000000000,
+          "value_usd": 1000000000
+        },
+        "id": "apple-post-ipo-equity--2ddfd6bc",
+        "uuid": "2ddfd6bc-b8f9-d591-ecbc-2b44c7d42aa4",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "lead_investors": [
+          {
+            "image": "vsnwi4ppyv3n8p3u9y9o",
+            "permalink": "berkshire-hathaway-corp",
+            "name": "Berkshire Hathaway"
+          }
+        ],
+        "title": "Post-IPO Equity - Apple"
+      },
+      {
+        "announced_on": "1997-08-01",
+        "money_raised": {
+          "currency": "USD",
+          "value": 150000000,
+          "value_usd": 150000000
+        },
+        "id": "apple-post-ipo-equity--68a70270",
+        "uuid": "68a70270-0bdc-6726-376c-0eb9d8c44580",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "lead_investors": [
+          {
+            "image": "v1501613147/ypg7mliwmzomf9fdrkvz.png",
+            "permalink": "microsoft",
+            "name": "Microsoft"
+          }
+        ],
+        "title": "Post-IPO Equity - Apple"
+      },
+      {
+        "announced_on": "1978-05-04",
+        "money_raised": {
+          "currency": "USD",
+          "value": 150000,
+          "value_usd": 150000
+        },
+        "id": "apple-seed--3846fee8",
+        "uuid": "3846fee8-72aa-464a-a8ee-45c58b04e9e5",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "lead_investors": [
+          {
+            "image": "itlvyekqsbl2orcjxugx",
+            "permalink": "sequoia-capital",
+            "name": "Sequoia Capital"
+          }
+        ],
+        "title": "Seed Round - Apple"
+      },
+      {
+        "announced_on": "1977-05-15",
+        "money_raised": {
+          "currency": "USD",
+          "value": 80000,
+          "value_usd": 80000
+        },
+        "id": "apple-seed--17f74f05",
+        "uuid": "17f74f05-0394-203d-d671-7c0faaf90c55",
+        "image_id": "s1cihnpc1cnekihotv0e",
+        "title": "Seed Round - Apple"
+      }
+    ],
+    "bombora": [
+      {
+        "category": "it_management",
+        "score": 100,
+        "topic": "Application Acceleration",
+        "weeks_surging": 4,
+        "wow_growth": 0.351351351351351
+      },
+      {
+        "category": "media_ad",
+        "score": 100,
+        "topic": "SA360",
+        "weeks_surging": 2,
+        "wow_growth": 0.219512195121951
+      },
+      {
+        "category": "media_ad",
+        "score": 100,
+        "topic": "Amazon Marketing Services (AMS)",
+        "weeks_surging": 3,
+        "wow_growth": 0.315789473684211
+      },
+      {
+        "category": "conference",
+        "score": 99,
+        "topic": "ERE Recruiting Conference",
+        "weeks_surging": 4,
+        "wow_growth": -0.01
+      },
+      {
+        "category": "technology",
+        "score": 96,
+        "topic": "Apache HTTP Server",
+        "weeks_surging": 1
+      },
+      {
+        "category": "technology",
+        "score": 96,
+        "topic": "Topcon",
+        "weeks_surging": 3,
+        "wow_growth": 0.548387096774194
+      },
+      {
+        "category": "business_service",
+        "score": 96,
+        "topic": "Hannon Hill (Cascade)",
+        "weeks_surging": 2,
+        "wow_growth": 0.371428571428571
+      },
+      {
+        "category": "software_dev",
+        "score": 96,
+        "topic": "Syslog",
+        "weeks_surging": 3,
+        "wow_growth": 0.0549450549450549
+      },
+      {
+        "category": "technology",
+        "score": 95,
+        "topic": "StreamSets Inc.",
+        "weeks_surging": 3,
+        "wow_growth": 0.283783783783784
+      },
+      {
+        "category": "dev_ops",
+        "score": 94,
+        "topic": "FileZilla",
+        "weeks_surging": 1
+      }
+    ],
+    "investors": [
+      {
+        "funding_round": {
+          "id": "apple-post-ipo-equity--45845def",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Post-IPO Equity - Apple"
+        },
+        "id": "kb-securities-invested-in-apple-post-ipo-equity--45845def--7845a7e1",
+        "investor": {
+          "id": "kb-securities",
+          "image_id": "yyu8j0guzd0wrgykrdwx",
+          "type": "organization",
+          "value": "KB Securities"
+        },
+        "type": "investment",
+        "value": "KB Securities investment in Post-IPO Equity - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-post-ipo-secondary--03526bea",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Post-IPO Secondary - Apple"
+        },
+        "id": "sam-shirazi-maqam-invested-in-apple-post-ipo-secondary--03526bea--b175a282",
+        "investor": {
+          "id": "sam-shirazi-maqam",
+          "image_id": "zn7wytcex4kvs45c00ao",
+          "type": "person",
+          "value": "Sam Shirazi Maqam"
+        },
+        "type": "investment",
+        "value": "Sam Shirazi Maqam investment in Post-IPO Secondary - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-post-ipo-equity--2ddfd6bc",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Post-IPO Equity - Apple"
+        },
+        "id": "berkshire-hathaway-corp-invested-in-apple-post-ipo-equity--2ddfd6bc--7ad9737f",
+        "investor": {
+          "id": "berkshire-hathaway-corp",
+          "image_id": "vsnwi4ppyv3n8p3u9y9o",
+          "type": "organization",
+          "value": "Berkshire Hathaway"
+        },
+        "lead_investor": true,
+        "type": "investment",
+        "value": "Berkshire Hathaway investment in Post-IPO Equity - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-post-ipo-equity--68a70270",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Post-IPO Equity - Apple"
+        },
+        "id": "microsoft-invested-in-apple-post-ipo-equity--68a70270--5202d69c",
+        "investor": {
+          "id": "microsoft",
+          "image_id": "v1501613147/ypg7mliwmzomf9fdrkvz.png",
+          "type": "organization",
+          "value": "Microsoft"
+        },
+        "lead_investor": true,
+        "type": "investment",
+        "value": "Microsoft investment in Post-IPO Equity - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-seed--3846fee8",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Seed Round - Apple"
+        },
+        "id": "venrock-invested-in-apple-seed--3846fee8--568295b5",
+        "investor": {
+          "id": "venrock",
+          "image_id": "tp0anhokmywhysjyjpo1",
+          "type": "organization",
+          "value": "Venrock"
+        },
+        "type": "investment",
+        "value": "Venrock investment in Seed Round - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-seed--3846fee8",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Seed Round - Apple"
+        },
+        "id": "sequoia-capital-invested-in-apple-seed--3846fee8--a5e30448",
+        "investor": {
+          "id": "sequoia-capital",
+          "image_id": "itlvyekqsbl2orcjxugx",
+          "type": "organization",
+          "value": "Sequoia Capital"
+        },
+        "lead_investor": true,
+        "type": "investment",
+        "value": "Sequoia Capital investment in Seed Round - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-seed--17f74f05",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Seed Round - Apple"
+        },
+        "id": "mike-markkula-invested-in-apple-seed--17f74f05--386a064a",
+        "investor": {
+          "id": "mike-markkula",
+          "image_id": "v1468670963/jvbdcbmgyxykb9hpw3za.png",
+          "type": "person",
+          "value": "Mike Markkula"
+        },
+        "type": "investment",
+        "value": "Mike Markkula investment in Seed Round - Apple"
+      },
+      {
+        "funding_round": {
+          "id": "apple-seed--17f74f05",
+          "image_id": "s1cihnpc1cnekihotv0e",
+          "type": "funding_round",
+          "value": "Seed Round - Apple"
+        },
+        "id": "matrix-partners-invested-in-apple-seed--17f74f05--78458588",
+        "investor": {
+          "id": "matrix-partners",
+          "image_id": "547ea3d650b64a8fa3a845b22f3139b5",
+          "type": "organization",
+          "value": "Matrix"
+        },
+        "type": "investment",
+        "value": "Matrix investment in Seed Round - Apple"
+      }
+    ],
+    "event_appearances": [
+      {
+        "appearance_type": "speaker",
+        "event": "Futurist Expo 2025",
+        "event_starts_on": "2025-03-21",
+        "image": "efb847c5fe934b5ab195a327165d6ff5",
+        "permalink": "futurist-expo-2025-1b94"
+      },
+      {
+        "appearance_type": "speaker",
+        "event": "Futurist Expo 2025",
+        "event_starts_on": "2025-03-21",
+        "image": "18e7a9e0cb3f403e9d46ef09c62a45a2",
+        "permalink": "futurist-expo-2025"
+      },
+      {
+        "appearance_type": "exhibitor",
+        "event": "Vivatech",
+        "event_starts_on": "2022-06-15",
+        "image": "zxgdjmoyigepvpvgyyag",
+        "permalink": "vivatech"
+      },
+      {
+        "appearance_type": "sponsor",
+        "event": "Deep Learning Summit, Toronto 2020",
+        "event_starts_on": "2021-10-19",
+        "image": "l1aimzuvuk9epioykdvn",
+        "permalink": "deep-learning-summit-toronto-2020"
+      },
+      {
+        "appearance_type": "sponsor",
+        "event": "KubeCon + CloudNativeCon North America 2021",
+        "event_starts_on": "2021-10-11",
+        "image": "qobrwmimr8ta0dhcclyy",
+        "permalink": "kubecon-cloudnativecon-north-america-2021"
+      },
+      {
+        "appearance_type": "sponsor",
+        "event": "Emotional Design Psychology - Toronto (2-day Class)",
+        "event_starts_on": "2020-11-12",
+        "image": "olkti2awvtzrhynumhiz",
+        "permalink": "emotional-design-psychology-toronto-2-day-class"
+      },
+      {
+        "appearance_type": "sponsor",
+        "event": "Psychology for Digital Behavior Change - Toronto (3-day Class)",
+        "event_starts_on": "2020-10-08",
+        "image": "nglgm84tdwqiky6zjtch",
+        "permalink": "psychology-for-digital-behavior-change-toronto-3-day-class"
+      },
+      {
+        "appearance_type": "sponsor",
+        "event": "Emotional Design Psychology - San Jose (2-day Class)",
+        "event_starts_on": "2020-06-04",
+        "image": "wp1z3dwnnp5sf0qkgosb",
+        "permalink": "emotional-design-psychology-san-jose-2-day-class"
+      }
+    ],
+    "acquisitions": [
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "pjdnj4icjfalvhflrrj1",
+          "permalink": "pixelmator",
+          "role": "acquiree",
+          "uuid": "b84388be-8533-7c73-85ef-a8e039655d56",
+          "value": "Pixelmator"
+        },
+        "announced_on": {
+          "value": "2024-11-01"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "pjdnj4icjfalvhflrrj1",
+          "permalink": "apple-acquires-pixelmator--9d6bd390",
+          "uuid": "9d6bd390-c113-49e3-a76c-14ac56ad1700",
+          "value": "Pixelmator acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "v1488085600/uf0hpyfgwtwmzpwuzjn6.png",
+          "permalink": "datakalab",
+          "role": "acquiree",
+          "uuid": "3971dd2d-c7be-37f1-8799-8577053c1c22",
+          "value": "DatakaLab"
+        },
+        "announced_on": {
+          "value": "2024-04-22"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "v1488085600/uf0hpyfgwtwmzpwuzjn6.png",
+          "permalink": "apple-acquires-datakalab--1a06dcb8",
+          "uuid": "1a06dcb8-f914-4c77-8c76-f4672688f498",
+          "value": "DatakaLab acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "n1gsiig7t1reklqjth7j",
+          "permalink": "darwinai",
+          "role": "acquiree",
+          "uuid": "92ca7e36-64f2-4745-a90f-f00b4e2d1a28",
+          "value": "DarwinAI"
+        },
+        "announced_on": {
+          "value": "2024-03-14"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "n1gsiig7t1reklqjth7j",
+          "permalink": "apple-acquires-darwinai--6833a7d6",
+          "uuid": "6833a7d6-4cb2-4b40-8ff0-84ac5315c5e7",
+          "value": "DarwinAI acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "v1445747286/ezi92vrmeifpirvpozea.png",
+          "permalink": "blinksight",
+          "role": "acquiree",
+          "uuid": "af16a539-af2d-e36b-0135-15f508f73c00",
+          "value": "Blinksight"
+        },
+        "announced_on": {
+          "value": "2023-10-03"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "v1445747286/ezi92vrmeifpirvpozea.png",
+          "permalink": "apple-acquires-blinksight--d3b8ee6f",
+          "uuid": "d3b8ee6f-13aa-48f3-af23-5b57402b3e9e",
+          "value": "Blinksight acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "beadnobkxnpxf4t43o6o",
+          "permalink": "bis-records",
+          "role": "acquiree",
+          "uuid": "cc6b4db9-931c-418e-8716-ca22dfb5d812",
+          "value": "BIS Records"
+        },
+        "announced_on": {
+          "value": "2023-09-05"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "beadnobkxnpxf4t43o6o",
+          "permalink": "apple-acquires-bis-records--63517fda",
+          "uuid": "63517fda-ce83-4a1e-89b8-8d2dc1bb0664",
+          "value": "BIS Records acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "v1500393749/mydwkjc9s3vmry28jsih.png",
+          "permalink": "mira-labs",
+          "role": "acquiree",
+          "uuid": "5033b552-c61f-29b1-c3f2-cdf03b2e5fdc",
+          "value": "Mira"
+        },
+        "announced_on": {
+          "value": "2023-06-06"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "v1500393749/mydwkjc9s3vmry28jsih.png",
+          "permalink": "apple-acquires-mira-labs--4d7ef678",
+          "uuid": "4d7ef678-c365-4570-921a-1fb440efffd8",
+          "value": "Mira acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "qhwfpdbcswebue1zthpa",
+          "permalink": "waveone-inc",
+          "role": "acquiree",
+          "uuid": "337f7244-55e0-4abe-97d0-3328955237a8",
+          "value": "WaveOne"
+        },
+        "announced_on": {
+          "value": "2023-03-27"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "qhwfpdbcswebue1zthpa",
+          "permalink": "apple-acquires-waveone-inc--9439af02",
+          "uuid": "9439af02-1c7e-402c-a676-52b6ef1e000f",
+          "value": "WaveOne acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "v1503588188/cwrvu47eeks4czr2zzo7.png",
+          "permalink": "credit-kudos",
+          "role": "acquiree",
+          "uuid": "c2847244-e777-d913-e3ab-b155fe57cd92",
+          "value": "Credit Kudos"
+        },
+        "announced_on": {
+          "value": "2022-03-23"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "v1503588188/cwrvu47eeks4czr2zzo7.png",
+          "permalink": "apple-acquires-credit-kudos--30596efa",
+          "uuid": "30596efa-68f2-4ea1-a3fd-6b02165d8e14",
+          "value": "Credit Kudos acquired by Apple"
+        },
+        "price": {
+          "value": 150000000,
+          "value_usd": 150000000
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "lqi4pskyjno0zfjlh8jt",
+          "permalink": "ai-music",
+          "role": "acquiree",
+          "uuid": "498242c4-0a49-e430-e963-89c76046778c",
+          "value": "AI Music"
+        },
+        "announced_on": {
+          "value": "2022-02-07"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "lqi4pskyjno0zfjlh8jt",
+          "permalink": "apple-acquires-ai-music--f1b2a7aa",
+          "uuid": "f1b2a7aa-cae0-4a83-ab94-98fd1dddafa5",
+          "value": "AI Music acquired by Apple"
+        }
+      },
+      {
+        "acquiree_identifier": {
+          "entity_def_id": "organization",
+          "image_id": "v1432215707/efzgqbpsuttybwrkrbti.png",
+          "permalink": "paws-inc",
+          "role": "acquiree",
+          "uuid": "f4ad3b47-ea73-0381-6f06-133f8ce7bc31",
+          "value": "Paws, Inc"
+        },
+        "announced_on": {
+          "value": "2021-08-30"
+        },
+        "identifier": {
+          "entity_def_id": "acquisition",
+          "image_id": "v1432215707/efzgqbpsuttybwrkrbti.png",
+          "permalink": "apple-acquires-paws-inc--392724b6",
+          "uuid": "392724b6-a0c2-4785-85cc-970bbcaa1472",
+          "value": "Paws, Inc acquired by Apple"
+        }
+      }
+    ],
+    "funds_raised": [
+      {
+        "announced_on": "2024-11-08",
+        "id": "apple-invested-in-ihairium-seed--56e35ea9--38b64df8",
+        "money_raised": 50000,
+        "type": "investment",
+        "value": "Apple investment in Seed Round - iHairium"
+      },
+      {
+        "announced_on": "2024-10-29",
+        "id": "apple-invested-in-globalstar-post-ipo-equity--5e897e5d--a53ffa73",
+        "money_raised": 400000000,
+        "type": "investment",
+        "value": "Apple investment in Post-IPO Equity - Globalstar"
+      },
+      {
+        "announced_on": "2023-11-03",
+        "id": "apple-invested-in-m3-technology-post-ipo-equity--2b35cff9--f059ef0c",
+        "money_raised": 500000000,
+        "type": "investment",
+        "value": "Apple investment in Post-IPO Equity - M3 Technology"
+      },
+      {
+        "announced_on": "2023-03-08",
+        "id": "apple-invested-in-gamma-c251-private-equity--6cb2f671--835706df",
+        "money_raised": 1000000000,
+        "type": "investment",
+        "value": "Apple investment in Private Equity Round - gamma"
+      },
+      {
+        "announced_on": "2023-02-28",
+        "id": "apple-invested-in-globalstar-post-ipo-debt--5c15720d--8ac5472f",
+        "money_raised": 252000000,
+        "type": "investment",
+        "value": "Apple investment in Post-IPO Debt - Globalstar"
+      },
+      {
+        "announced_on": "2022-10-05",
+        "id": "apple-invested-in-financemanras-seed--7db79f43--0ef7a7d7",
+        "money_raised": 10000,
+        "type": "investment",
+        "value": "Apple investment in Seed Round - financemanras"
+      },
+      {
+        "announced_on": "2022-02-10",
+        "id": "apple-invested-in-btcbox-private-equity--a0510738--7d17e6f8",
+        "money_raised": 20000000,
+        "type": "investment",
+        "value": "Apple investment in Private Equity Round - BTCBOX"
+      },
+      {
+        "announced_on": "2021-12-06",
+        "id": "apple-invested-in-trala-series-unknown--70dd33f8--ec002f53",
+        "money_raised": 6900000,
+        "type": "investment",
+        "value": "Apple investment in Venture Round - Trala"
+      },
+      {
+        "announced_on": "2021-08-26",
+        "id": "apple-invested-in-vamosventures-corporate-round--6de27883--762ae608",
+        "type": "investment",
+        "value": "Apple investment in Corporate Round - VamosVentures"
+      },
+      {
+        "announced_on": "2021-08-26",
+        "id": "apple-invested-in-sweetbio-corporate-round--24cc0da5--fe8e1880",
+        "type": "investment",
+        "value": "Apple investment in Corporate Round - SweetBio"
+      }
+    ],
+    "investments": [
+      {
+        "announced_on": "2024-11-08",
+        "funding_round": {
+          "id": "ihairium-seed--56e35ea9",
+          "image_id": "vhyagl4cbsvzj5kvxy6s",
+          "type": "funding_round",
+          "value": "Seed Round - iHairium"
+        },
+        "id": "apple-invested-in-ihairium-seed--56e35ea9--38b64df8",
+        "lead_investor": true,
+        "organization": {
+          "id": "ihairium",
+          "image_id": "vhyagl4cbsvzj5kvxy6s",
+          "type": "organization",
+          "value": "iHairium"
+        },
+        "type": "investment",
+        "value": "Apple investment in Seed Round - iHairium"
+      },
+      {
+        "announced_on": "2024-10-29",
+        "funding_round": {
+          "id": "globalstar-post-ipo-equity--5e897e5d",
+          "image_id": "k4pifdficf54sjxtt4m7",
+          "type": "funding_round",
+          "value": "Post-IPO Equity - Globalstar"
+        },
+        "id": "apple-invested-in-globalstar-post-ipo-equity--5e897e5d--a53ffa73",
+        "lead_investor": true,
+        "organization": {
+          "id": "globalstar",
+          "image_id": "k4pifdficf54sjxtt4m7",
+          "type": "organization",
+          "value": "Globalstar"
+        },
+        "type": "investment",
+        "value": "Apple investment in Post-IPO Equity - Globalstar"
+      },
+      {
+        "announced_on": "2023-11-03",
+        "funding_round": {
+          "id": "m3-technology-post-ipo-equity--2b35cff9",
+          "image_id": "obtrlxlsxbl2rfpleo3o",
+          "type": "funding_round",
+          "value": "Post-IPO Equity - M3 Technology"
+        },
+        "id": "apple-invested-in-m3-technology-post-ipo-equity--2b35cff9--f059ef0c",
+        "lead_investor": true,
+        "organization": {
+          "id": "m3-technology",
+          "image_id": "obtrlxlsxbl2rfpleo3o",
+          "type": "organization",
+          "value": "M3 Technology"
+        },
+        "type": "investment",
+        "value": "Apple investment in Post-IPO Equity - M3 Technology"
+      },
+      {
+        "announced_on": "2023-03-08",
+        "funding_round": {
+          "id": "gamma-c251-private-equity--6cb2f671",
+          "image_id": "vtdm4746ijf0toksnhq1",
+          "type": "funding_round",
+          "value": "Private Equity Round - gamma"
+        },
+        "id": "apple-invested-in-gamma-c251-private-equity--6cb2f671--835706df",
+        "organization": {
+          "id": "gamma-c251",
+          "image_id": "vtdm4746ijf0toksnhq1",
+          "type": "organization",
+          "value": "gamma"
+        },
+        "type": "investment",
+        "value": "Apple investment in Private Equity Round - gamma"
+      },
+      {
+        "announced_on": "2023-02-28",
+        "funding_round": {
+          "id": "globalstar-post-ipo-debt--5c15720d",
+          "image_id": "k4pifdficf54sjxtt4m7",
+          "type": "funding_round",
+          "value": "Post-IPO Debt - Globalstar"
+        },
+        "id": "apple-invested-in-globalstar-post-ipo-debt--5c15720d--8ac5472f",
+        "lead_investor": true,
+        "organization": {
+          "id": "globalstar",
+          "image_id": "k4pifdficf54sjxtt4m7",
+          "type": "organization",
+          "value": "Globalstar"
+        },
+        "type": "investment",
+        "value": "Apple investment in Post-IPO Debt - Globalstar"
+      },
+      {
+        "announced_on": "2022-10-05",
+        "funding_round": {
+          "id": "financemanras-seed--7db79f43",
+          "image_id": "ll1vfwa0w3ejj1txbgfe",
+          "type": "funding_round",
+          "value": "Seed Round - financemanras"
+        },
+        "id": "apple-invested-in-financemanras-seed--7db79f43--0ef7a7d7",
+        "lead_investor": false,
+        "organization": {
+          "id": "financemanras",
+          "image_id": "ll1vfwa0w3ejj1txbgfe",
+          "type": "organization",
+          "value": "financemanras"
+        },
+        "type": "investment",
+        "value": "Apple investment in Seed Round - financemanras"
+      },
+      {
+        "announced_on": "2022-02-10",
+        "funding_round": {
+          "id": "btcbox-private-equity--a0510738",
+          "image_id": "jsqugakfkxwhirrzdlg9",
+          "type": "funding_round",
+          "value": "Private Equity Round - BTCBOX"
+        },
+        "id": "apple-invested-in-btcbox-private-equity--a0510738--7d17e6f8",
+        "lead_investor": true,
+        "organization": {
+          "id": "btcbox",
+          "image_id": "jsqugakfkxwhirrzdlg9",
+          "type": "organization",
+          "value": "BTCBOX"
+        },
+        "type": "investment",
+        "value": "Apple investment in Private Equity Round - BTCBOX"
+      },
+      {
+        "announced_on": "2021-12-06",
+        "funding_round": {
+          "id": "trala-series-unknown--70dd33f8",
+          "image_id": "sjuka9mgsmplb6jru1me",
+          "type": "funding_round",
+          "value": "Venture Round - Trala"
+        },
+        "id": "apple-invested-in-trala-series-unknown--70dd33f8--ec002f53",
+        "organization": {
+          "id": "trala",
+          "image_id": "sjuka9mgsmplb6jru1me",
+          "type": "organization",
+          "value": "Trala"
+        },
+        "type": "investment",
+        "value": "Apple investment in Venture Round - Trala"
+      },
+      {
+        "announced_on": "2021-08-26",
+        "funding_round": {
+          "id": "vamosventures-corporate-round--6de27883",
+          "image_id": "kcqsdeetpxccqzvcswiz",
+          "type": "funding_round",
+          "value": "Corporate Round - VamosVentures"
+        },
+        "id": "apple-invested-in-vamosventures-corporate-round--6de27883--762ae608",
+        "lead_investor": true,
+        "organization": {
+          "id": "vamosventures",
+          "image_id": "kcqsdeetpxccqzvcswiz",
+          "type": "organization",
+          "value": "VamosVentures"
+        },
+        "type": "investment",
+        "value": "Apple investment in Corporate Round - VamosVentures"
+      },
+      {
+        "announced_on": "2021-08-26",
+        "funding_round": {
+          "id": "sweetbio-corporate-round--24cc0da5",
+          "image_id": "mvul3eoiqhmagq7fggdl",
+          "type": "funding_round",
+          "value": "Corporate Round - SweetBio"
+        },
+        "id": "apple-invested-in-sweetbio-corporate-round--24cc0da5--fe8e1880",
+        "lead_investor": true,
+        "organization": {
+          "id": "sweetbio",
+          "image_id": "mvul3eoiqhmagq7fggdl",
+          "type": "organization",
+          "value": "SweetBio"
+        },
+        "type": "investment",
+        "value": "Apple investment in Corporate Round - SweetBio"
+      }
+    ],
+    "current_advisors": [
+      {
+        "image": "v1397186150/64e7a6fe1d3959bdbb8c18ee332dd34e.jpg",
+        "job_type": "board_member",
+        "name": "Monica Lozano",
+        "permalink": "monica-c-lozano"
+      },
+      {
+        "image": "v1446208386/snxsdfvyme50jwxtlenw.jpg",
+        "job_type": "board_member",
+        "name": "Arthur Levinson",
+        "permalink": "arthur-d-levinson"
+      },
+      {
+        "image": "v1397182111/10caab6d71ef2bbf7216f3860a26d591.jpg",
+        "job_type": "board_member",
+        "name": "Alex Gorsky",
+        "permalink": "alex-gorsky"
+      },
+      {
+        "image": "aj5cf7xkyto2tuyhrpzv",
+        "job_type": "board_member",
+        "name": "Tim Cook",
+        "permalink": "tim-cook"
+      },
+      {
+        "image": "v1444318277/j5hwyekvfbxnkjfavohs.png",
+        "job_type": "board_member",
+        "name": "Andrea Jung",
+        "permalink": "andrea-jung"
+      },
+      {
+        "image": "v1405630219/z8elwogxxy5dmtiwmrbb.jpg",
+        "job_type": "board_member",
+        "name": "Sue Wagner",
+        "permalink": "susan-l-wagner"
+      },
+      {
+        "image": "v1449271880/xtly9c8imflqon0yh75n.png",
+        "job_type": "board_member",
+        "name": "Ronald Sugar",
+        "permalink": "ronald-d-sugar"
+      },
+      {
+        "image": "03f2fc548cdb43809b1af236d560505d",
+        "job_type": "board_member",
+        "name": "Wanda Austin",
+        "permalink": "wanda-austin-2e33"
+      }
+    ],
+    "exits": [
+      {
+        "description": "Zomato is a restaurant discovery platform that allows users to search for restaurants, browse menus, and place orders for food delivery.",
+        "image": "wjxdrpn49ebvfmuporzm",
+        "link": "zomato",
+        "value": "Zomato"
+      },
+      {
+        "description": "Trala is a tech-powered online music tool that aims to make music education available to everyone.",
+        "image": "sjuka9mgsmplb6jru1me",
+        "link": "trala",
+        "value": "Trala"
+      },
+      {
+        "description": "Globalstar is the widely-used handheld satellite phone service, offering both voice and data services from virtually anywhere.",
+        "image": "k4pifdficf54sjxtt4m7",
+        "link": "globalstar",
+        "value": "Globalstar"
+      },
+      {
+        "description": "Adobe is a software company that provides its users with digital marketing and media solutions.",
+        "image": "qnbpcajqvlw8bkul1tru",
+        "link": "adobe-systems",
+        "value": "Adobe"
+      },
+      {
+        "description": "Corning is a manufacturer of building materials including glass, ceramic, related materials and technologies, and more.",
+        "image": "bw56u0jxt1naflrsj3hi",
+        "link": "corning",
+        "value": "Corning"
+      },
+      {
+        "description": "Coherent is a company that develops, manufactures, and supports laser equipment and related specialty components.",
+        "image": "4d9ca20b19ba40a7842004e3c549d9ad",
+        "link": "ii-vi",
+        "value": "Coherent Corp"
+      },
+      {
+        "description": "Imagination Technologies creates and licenses market processor solutions for graphics, computing, vision, and AI processing.",
+        "image": "ply8i4ojosztcldaswiw",
+        "link": "imagination-technologies",
+        "value": "Imagination Technologies"
+      },
+      {
+        "description": "Didi is a mobility technology platform that offers ride hailing, taxi hailing, food delivery, and financial services.",
+        "image": "qvbm8pwg7kfrgmug0sew",
+        "link": "didi-dache",
+        "value": "Didi"
+      },
+      {
+        "description": "M3 Technology is a semiconductor manufacturing company.",
+        "image": "obtrlxlsxbl2rfpleo3o",
+        "link": "m3-technology",
+        "value": "M3 Technology"
+      },
+      {
+        "description": "ServiceMax provides a cloud-based software platform that improves the productivity of complex, equipment-centric service execution for OEMs.",
+        "image": "iru1sygwasattpstuc0c",
+        "link": "servicemax",
+        "value": "ServiceMax"
+      }
+    ],
+    "leadership_hire": [
+      {
+        "key_event_date": "2025-02-25",
+        "uuid": "9962df83-cf04-45eb-a48d-7df94e38c326"
+      },
+      {
+        "key_event_date": "2025-02-11",
+        "uuid": "656b4205-3f84-4785-957e-71f9c243519d"
+      },
+      {
+        "key_event_date": "2025-01-26",
+        "uuid": "7f9b19f4-0306-41c1-8a9a-ffc0ae1fc7f1"
+      },
+      {
+        "key_event_date": "2025-01-24",
+        "uuid": "865cd382-6da9-42ee-89e4-48fe429d680e"
+      },
+      {
+        "key_event_date": "2025-01-16",
+        "uuid": "f6cbcd98-9802-4fe2-92e5-03d14dffe310"
+      },
+      {
+        "key_event_date": "2025-01-01",
+        "uuid": "896d36d4-4988-4a23-b71a-dab41a88e5ab"
+      },
+      {
+        "key_event_date": "2024-12-20",
+        "uuid": "cabace97-0c2f-42f6-8262-10eed60559fd"
+      },
+      {
+        "key_event_date": "2024-11-12",
+        "uuid": "009b48dc-8e3d-454f-afcf-07d71658f33d"
+      },
+      {
+        "key_event_date": "2024-11-11",
+        "uuid": "33175632-50d5-421a-8cbd-83043fb02950"
+      },
+      {
+        "key_event_date": "2024-09-13",
+        "uuid": "2f2298c0-94ef-4c3e-9011-67dd537b22ad"
+      }
+    ],
+    "sub_organizations": [
+      {
+        "ownee": "FileMaker",
+        "ownee_permalink": "filemaker",
+        "ownership_type": "subsidiary",
+        "title": "Apple owns FileMaker"
+      },
+      {
+        "ownee": "Braeburn Capital",
+        "ownee_permalink": "braeburn-capital",
+        "ownership_type": "investment_arm",
+        "title": "Apple owns Braeburn Capital"
+      },
+      {
+        "ownee": "Apple's Impact Accelerator",
+        "ownee_permalink": "apple-s-impact-accelerator",
+        "ownership_type": "investment_arm",
+        "title": "Apple owns Apple's Impact Accelerator"
+      },
+      {
+        "ownee": "Apple - Racial Equity and Justice Initiative",
+        "ownee_permalink": "apple-racial-equity-and-justice-initiative",
+        "ownership_type": "division",
+        "title": "Apple owns Apple - Racial Equity and Justice Initiative"
+      },
+      {
+        "ownee": "AC Wellness",
+        "ownee_permalink": "ac-wellness",
+        "ownership_type": "subsidiary",
+        "title": "Apple owns AC Wellness"
+      }
+    ],
+    "alumni": [
+      {
+        "image": "v1481914740/p60x1vugnre7vto09tnp.png",
+        "name": "Tim Sheehan",
+        "permalink": "innovative-computing-systems-inc",
+        "primary_job_title": "Director of Professional Services"
+      },
+      {
+        "image": "v1494422254/fxklo4mhxafvgu4ovaez.png",
+        "name": "Rachel Baker",
+        "permalink": "servos-simulation-inc",
+        "primary_job_title": "Owner, CEO and Engineer"
+      }
+    ],
+    "diversity_investments": [
+      {
+        "announced_on": "2021-08-26",
+        "funding_round": {
+          "id": "vamosventures-corporate-round--6de27883",
+          "image_id": "kcqsdeetpxccqzvcswiz",
+          "type": "funding_round",
+          "value": "Corporate Round - VamosVentures"
+        },
+        "id": "apple-invested-in-vamosventures-corporate-round--6de27883--762ae608",
+        "organization": {
+          "id": "vamosventures",
+          "image_id": "kcqsdeetpxccqzvcswiz",
+          "type": "organization",
+          "value": "VamosVentures"
+        },
+        "organization_diversity": [
+          {
+            "id": "hispanic-or-latinx-founded",
+            "type": "diversity_spotlight",
+            "value": "Hispanic / Latine Founded"
+          },
+          {
+            "id": "hispanic-or-latinx-origin-led",
+            "type": "diversity_spotlight",
+            "value": "Hispanic / Latine Led"
+          },
+          {
+            "id": "women-founded",
+            "type": "diversity_spotlight",
+            "value": "Women Founded"
+          },
+          {
+            "id": "women-led",
+            "type": "diversity_spotlight",
+            "value": "Women Led"
+          }
+        ],
+        "type": "investment",
+        "value": "Apple investment in Corporate Round - VamosVentures"
+      },
+      {
+        "announced_on": "2021-08-26",
+        "funding_round": {
+          "id": "sweetbio-corporate-round--24cc0da5",
+          "image_id": "mvul3eoiqhmagq7fggdl",
+          "type": "funding_round",
+          "value": "Corporate Round - SweetBio"
+        },
+        "id": "apple-invested-in-sweetbio-corporate-round--24cc0da5--fe8e1880",
+        "organization": {
+          "id": "sweetbio",
+          "image_id": "mvul3eoiqhmagq7fggdl",
+          "type": "organization",
+          "value": "SweetBio"
+        },
+        "organization_diversity": [
+          {
+            "id": "black-founded",
+            "type": "diversity_spotlight",
+            "value": "Black Founded"
+          },
+          {
+            "id": "hispanic-or-latinx-founded",
+            "type": "diversity_spotlight",
+            "value": "Hispanic / Latine Founded"
+          },
+          {
+            "id": "hispanic-or-latinx-origin-led",
+            "type": "diversity_spotlight",
+            "value": "Hispanic / Latine Led"
+          },
+          {
+            "id": "women-founded",
+            "type": "diversity_spotlight",
+            "value": "Women Founded"
+          },
+          {
+            "id": "women-led",
+            "type": "diversity_spotlight",
+            "value": "Women Led"
+          }
+        ],
+        "type": "investment",
+        "value": "Apple investment in Corporate Round - SweetBio"
+      }
+    ],
+    "funds_list": [
+      {
+        "announced_on": "2022-01-15",
+        "image": "s1cihnpc1cnekihotv0e",
+        "name": "European tet fund"
+      },
+      {
+        "announced_on": "2018-07-12",
+        "image": "s1cihnpc1cnekihotv0e",
+        "name": "The China Clean Energy Fund"
+      }
+    ],
+    "layoff": [
+      {
+        "key_event_date": "2024-09-04",
+        "uuid": "220c8e70-bbbb-4287-a556-5aeb82152a8e"
+      },
+      {
+        "key_event_date": "2024-08-28",
+        "uuid": "d63792dc-3d64-4d4d-94f7-bb61af49e704"
+      },
+      {
+        "key_event_date": "2024-04-06",
+        "uuid": "dcf3e8e1-8379-450e-bfab-f77df050c3c7"
+      },
+      {
+        "key_event_date": "2024-04-01",
+        "uuid": "295ec388-9b7d-4a21-ab56-43ddb1ed543d"
+      },
+      {
+        "key_event_date": "2023-04-04",
+        "uuid": "bd2d6af4-3a26-4cb2-8532-7895c07ed808"
+      },
+      {
+        "key_event_date": "2023-01-20",
+        "uuid": "6bcd9c2f-2924-41ae-a4ed-54c64acd9fed"
+      },
+      {
+        "key_event_date": "2022-08-16",
+        "uuid": "6fedf9b8-a2a9-480d-a616-97dca673d16b"
+      },
+      {
+        "key_event_date": "2021-03-17",
+        "uuid": "dc9cd542-8924-487a-97dd-646c91b813ca"
+      }
+    ],
+    "news": [
+      {
+        "date": "2025-05-04",
+        "organization": "Apple",
+        "publisher": "The Verge",
+        "thumbnail_url": "https://cdn.vox-cdn.com/thumbor/BkKPDGYEeug5ccml0YPV-cRxF7k=/0x0:2040x1360/1800x1800/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/21925616/vpavic_200929_4216_0171.jpg",
+        "title": "Here are the best Apple Watch deals right now",
+        "url": "https://www.theverge.com/21289209/best-apple-watch-deals"
+      },
+      {
+        "date": "2025-05-04",
+        "organization": "Apple",
+        "publisher": "The Verge",
+        "title": "The best iPad deals you can get right now",
+        "url": "https://www.theverge.com/21280354/best-ipad-deals-apple"
+      },
+      {
+        "date": "2025-05-02",
+        "organization": "Apple",
+        "publisher": "The Verge",
+        "title": "Here are the best AirPods deals you can get right now",
+        "url": "https://www.theverge.com/21302051/best-apple-airpods-deals"
+      },
+      {
+        "date": "2025-05-01",
+        "organization": "Apple",
+        "publisher": "The Verge",
+        "title": "The best budget smartphone you can buy",
+        "url": "https://www.theverge.com/21420196/best-budget-smartphone-cheap"
+      },
+      {
+        "date": "2025-05-01",
+        "organization": "Apple",
+        "publisher": "Mashable",
+        "thumbnail_url": "https://blueprint-api-production.s3.amazonaws.com/uploads/card/image/828187/a16ce386-5ef1-4bfb-9cd9-ce8469ccea81.jpg",
+        "title": "As tariffs come for tech, these are the best cheap laptops under $1,000",
+        "url": "https://mashable.com/roundup/best-cheap-laptops"
+      },
+      {
+        "date": "2025-04-30",
+        "organization": "Apple",
+        "publisher": "Yahoo Finance",
+        "title": "Magnificent Seven Stocks: Amazon, Nvidia, Tesla Sell Off; Meta Earnings Next",
+        "url": "https://www.investors.com/research/magnificent-seven-stocks-april-2025/?src=A00220&yptr=yahoo"
+      },
+      {
+        "date": "2025-04-23",
+        "organization": "Apple",
+        "publisher": "Mashable",
+        "title": "The best noise-cancelling headphones for flying make air travel suck a little less",
+        "url": "https://mashable.com/roundup/best-noise-canceling-headphones-for-flying"
+      },
+      {
+        "date": "2025-04-22",
+        "organization": "Apple",
+        "publisher": "Yahoo Finance",
+        "title": "Apple Retakes This Crown. Tesla's Mag 7 Card Under Threat — Again.",
+        "url": "https://www.investors.com/research/magnificent-seven-stocks-latest-news-market-cap-weighting/?src=A00220&yptr=yahoo"
+      },
+      {
+        "date": "2025-04-22",
+        "organization": "Apple",
+        "publisher": "Mashable",
+        "title": "The 9 best noise-cancelling headphones we use and love",
+        "url": "https://mashable.com/roundup/best-noise-cancelling-headphones"
+      },
+      {
+        "date": "2025-04-22",
+        "organization": "Apple",
+        "publisher": "Business Standard India",
+        "title": "Apple releases iOS 18.5 developer beta 3: Check new features, improvements",
+        "url": "https://www.business-standard.com/technology/tech-news/apple-releases-ios-18-5-developer-beta-3-check-new-features-improvements-125042200246_1.html"
+      }
+    ],
+    "aberdeen_it_spend": {
+      "value": 28834964484,
+      "currency": "USD",
+      "value_usd": 28834964484
+    },
+    "headquarters_regions": [
+      {
+        "id": "san-francisco-bay-area-california",
+        "value": "San Francisco Bay Area"
+      },
+      {
+        "id": "silicon-valley-california",
+        "value": "Silicon Valley"
+      },
+      {
+        "id": "west-coast-united-states",
+        "value": "West Coast"
+      },
+      {
+        "id": "western-united-states",
+        "value": "Western US"
+      }
+    ],
+    "financials_highlights": {
+      "funding_total": {
+        "currency": "USD",
+        "value": 1170230000,
+        "value_usd": 1170230000
+      },
+      "num_funding_rounds": 7,
+      "num_investors": 8,
+      "num_lead_investors": 3
+    },
+    "ipo_fields": {
+      "amount_raised": {
+        "currency": "USD",
+        "value": 101200000,
+        "value_usd": 101200000
+      },
+      "date": "1980-12-12",
+      "share_price": {
+        "currency": "USD",
+        "value": 22,
+        "value_usd": 22
+      },
+      "stock_link": "https://www.google.com/finance?q=NASDAQ:AAPL",
+      "stock_symbol": "NASDAQ:AAPL"
+    },
+    "ipqwery": {
+      "ipqwery_num_patent_granted": 43923,
+      "ipqwery_num_trademark_registered": 3402,
+      "ipqwery_popular_trademark_class": "c9",
+      "trademark_class_text": "Computer and Software Products and Electrical and Scientific Products"
+    },
+    "overview_highlights": {
+      "funding_total": {
+        "currency": "USD",
+        "value": 1170230000,
+        "value_usd": 1170230000
+      },
+      "num_contacts": 9771,
+      "num_current_positions": 883,
+      "num_investments": 32,
+      "num_investors": 8,
+      "num_org_similarities": 4
+    },
+    "people_highlights": {
+      "num_contacts": 9771,
+      "num_current_advisor_positions": 22,
+      "num_current_positions": "883"
+    },
+    "technology_highlights": {
+      "builtwith_num_technologies_used": 8,
+      "semrush_visits_latest_month": 736382951,
+      "semrush_visits_mom_pct": -0.00259210425584285,
+      "siftery_num_products": 44
+    },
+    "founders": [
+      {
+        "id": "ron-wayne",
+        "type": "person",
+        "value": "Ron Wayne"
+      },
+      {
+        "id": "steve-jobs",
+        "type": "person",
+        "value": "Steve Jobs"
+      },
+      {
+        "id": "steve-wozniak",
+        "type": "person",
+        "value": "Steve Wozniak"
+      }
+    ],
+    "web_traffic_by_semrush": {
+      "global_traffic_rank": null,
+      "monthly_rank_growth_pct": null,
+      "visit_duration": null,
+      "visit_duration_growth_pct": null,
+      "page_views_per_visit": null,
+      "page_views_per_visit_growth_pct": null,
+      "bounce_rate_pct": null,
+      "bounce_rate_growth_pct": null
+    },
+    "products_and_services": [
+      {
+        "product_name": "iPhone",
+        "product_description": "A line of smartphones designed and marketed by Apple, featuring advanced technology and integration with Apple's ecosystem."
+      },
+      {
+        "product_name": "Mac",
+        "product_description": "A series of personal computers designed and manufactured by Apple, known for their sleek design and macOS operating system."
+      },
+      {
+        "product_name": "iPad",
+        "product_description": "A line of tablet computers designed and marketed by Apple, offering a range of features for productivity and entertainment."
+      },
+      {
+        "product_name": "Apple Watch",
+        "product_description": "A smartwatch series by Apple that integrates with iOS devices and offers health, fitness, and connectivity features."
+      },
+      {
+        "product_name": "AirPods",
+        "product_description": "Wireless earbuds by Apple, offering features like Active Noise Cancellation and seamless integration with Apple devices."
+      },
+      {
+        "product_name": "Apple TV",
+        "product_description": "A digital media player and streaming device by Apple, providing access to various streaming services and apps."
+      }
+    ],
+    "timestamp": "2025-05-05T04:57:16.669Z"
+  },
+  {
+    "input": {
+      "url": "https://www.crunchbase.com/organization/brightdata"
+    },
+    "name": "Bright Data",
+    "url": "https://www.crunchbase.com/organization/brightdata",
+    "id": "brightdata",
+    "cb_rank": 240126,
+    "region": "New York",
+    "about": "Bright Data offers a platform for ethical web data collection and analysis.",
+    "industries": [
+      {
+        "id": "business-intelligence",
+        "value": "Business Intelligence"
+      },
+      {
+        "id": "cloud-data-services",
+        "value": "Cloud Data Services"
+      },
+      {
+        "id": "data-collection-and-labeling",
+        "value": "Data Collection and Labeling"
+      },
+      {
+        "id": "network-security",
+        "value": "Network Security"
+      },
+      {
+        "id": "saas-5c4e",
+        "value": "SaaS"
+      }
+    ],
+    "operating_status": "active",
+    "company_type": "for_profit",
+    "social_media_links": [
+      "https://www.facebook.com/brightdataco",
+      "https://www.linkedin.com/company/bright-data",
+      "https://twitter.com/bright_data"
+    ],
+    "founded_date": "2014-01-01",
+    "num_employees": "251-500",
+    "country_code": "United States",
+    "website": "https://brightdata.com",
+    "contact_email": "sales@brightdata.com",
+    "contact_phone": "(888) 538-9204",
+    "featured_list": [
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 492483042135,
+          "value_usd": 492483042135
+        },
+        "org_num": 8012,
+        "org_num_investors": 12880,
+        "title": "City of New York Companies With More Than $10M in Revenue"
+      },
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 49982987368,
+          "value_usd": 49982987368
+        },
+        "org_num": 269,
+        "org_num_investors": 963,
+        "title": "City of New York Acquired Companies With More Than $100M in Revenue"
+      },
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 1236779985079,
+          "value_usd": 1236779985079
+        },
+        "org_num": 9936,
+        "org_num_investors": 23032,
+        "title": "Northeastern US Companies With More Than 100 Employees (Top 10K)"
+      },
+      {
+        "org_funding_total": {
+          "currency": "USD",
+          "value": 342278621371,
+          "value_usd": 342278621371
+        },
+        "org_num": 9669,
+        "org_num_investors": 40647,
+        "title": "New York Companies With Less Than $1B in Revenue (Top 10K)"
+      }
+    ],
+    "full_description": "Bright Data is a data collection platform that helps businesses gather publicly available web data in an ethical manner. It transforms unstructured data into structured formats, enabling organizations to gain insights into consumer interactions with their brands and competitors.",
+    "type": "company",
+    "uuid": "cc387f65-4f27-3957-c2f4-37800478e57e",
+    "active_tech_count": 19,
+    "builtwith_num_technologies_used": 19,
+    "builtwith_tech": [
+      {
+        "name": "SPF",
+        "num_companies_using": "882680",
+        "technology_category": [
+          "mx"
+        ]
+      },
+      {
+        "name": "DNSSEC",
+        "num_companies_using": "702780",
+        "technology_category": [
+          "ns"
+        ]
+      },
+      {
+        "name": "HSTS",
+        "num_companies_using": "687315",
+        "technology_category": [
+          "ssl"
+        ]
+      },
+      {
+        "name": "Google Maps",
+        "num_companies_using": "567229",
+        "technology_category": [
+          "mapping"
+        ]
+      },
+      {
+        "name": "Amazon",
+        "num_companies_using": "458533",
+        "technology_category": [
+          "hosting"
+        ]
+      },
+      {
+        "name": "DMARC",
+        "num_companies_using": "412951",
+        "technology_category": [
+          "mx"
+        ]
+      },
+      {
+        "name": "Cloudflare Hosting",
+        "num_companies_using": "316760",
+        "technology_category": [
+          "hosting"
+        ]
+      },
+      {
+        "name": "Amazon Virginia Region",
+        "num_companies_using": "165734",
+        "technology_category": [
+          "hosting"
+        ]
+      },
+      {
+        "name": "Common Name Invalid",
+        "num_companies_using": "133988",
+        "technology_category": [
+          "ssl"
+        ]
+      },
+      {
+        "name": "Amazon Route 53",
+        "num_companies_using": "118300",
+        "technology_category": [
+          "ns"
+        ]
+      }
+    ],
+    "ipo_status": "private",
+    "similar_companies": [
+      {
+        "link": "https://www.crunchbase.com/organization/nefeli-networks",
+        "name": "Nefeli Networks"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/cedexis",
+        "name": "Cedexis"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/tassl",
+        "name": "Tassl"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/kloudless",
+        "name": "Kloudless"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/redshield-security",
+        "name": "RedShield Security"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/clearbrain",
+        "name": "ClearBrain"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/appfolio",
+        "name": "AppFolio"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/capture2",
+        "name": "Capture2"
+      },
+      {
+        "link": "https://www.crunchbase.com/organization/locomex",
+        "name": "LOCOMeX"
+      }
+    ],
+    "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/rztqcpgudledqlc4mfpe",
+    "monthly_visits": 865525,
+    "semrush_visits_latest_month": 865525,
+    "semrush_last_updated": "2025-03-10",
+    "monthly_visits_growth": -0.0668556260889065,
+    "semrush_visits_mom_pct": -0.0668556260889065,
+    "num_contacts": 42,
+    "num_contacts_linkedin": 42,
+    "num_employee_profiles": 347,
+    "total_active_products": 23,
+    "num_news": 103,
+    "bombora_last_updated": "2025-04-27",
+    "legal_name": "Bright Data",
+    "num_event_appearances": 1,
+    "num_sub_organizations": 1,
+    "location": [
+      {
+        "name": "New York",
+        "permalink": "new-york-new-york"
+      },
+      {
+        "name": "New York",
+        "permalink": "new-york-united-states"
+      },
+      {
+        "name": "United States",
+        "permalink": "united-states"
+      },
+      {
+        "name": "North America",
+        "permalink": "north-america"
+      }
+    ],
+    "address": "New York, New York, United States, North America",
+    "contacts": [
+      {
+        "departments": [],
+        "job_title": "Sales Professional",
+        "levels": [
+          "l_300_director"
+        ],
+        "linkedin_id": "libby-gavri",
+        "name": "Libby Gavri"
+      }
+    ],
+    "current_employees": [
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/m71ngseagpje1dirbzyo",
+        "name": "Or Lenchner",
+        "permalink": "or-lenchner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/v1433567238/f850do27jubfhbt0hi3m.png",
+        "name": "Ofer Vilenski",
+        "permalink": "ofer-vilenski",
+        "title": "Founder"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/fvykm0cmyqh3h6ovt70c",
+        "name": "Omri Orgad",
+        "permalink": "omri-orgad",
+        "title": "Managing Director North America"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/ub0blfv2gnwobzyhypxp",
+        "name": "Keren Pakes",
+        "permalink": "keren-pakes",
+        "title": "VP Brand Marketing and Communications"
+      },
+      {
+        "name": "Avivit Amar",
+        "permalink": "avivit-amar",
+        "title": "Shef"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/n25icmz4zmcel76seei3",
+        "name": "Anna Burukhin",
+        "permalink": "anna-burukhin",
+        "title": "Marketing Design Lead"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/bzrmj25tyal7jtghvdyl",
+        "name": "Nikkie Ni",
+        "permalink": "nikkie-ni",
+        "title": "Regional account executive"
+      },
+      {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_4/rapwhwutzomw6ugu4f7t",
+        "name": "Rafael Levi",
+        "permalink": "rafael-levi-af16",
+        "title": "Technical Expert"
+      }
+    ],
+    "semrush_location_list": [
+      {
+        "locations": [
+          {
+            "name": "United States",
+            "permalink": "united-states"
+          },
+          {
+            "name": "North America",
+            "permalink": "north-america"
+          }
+        ],
+        "rank": 78972,
+        "rank_mom_pct": -0.29315097919874,
+        "visits_mom_pct": "0.532600690282611",
+        "visits_pct": 0.12261690881257
+      },
+      {
+        "locations": [
+          {
+            "name": "Kenya",
+            "permalink": "kenya-9f51"
+          },
+          {
+            "name": "Africa",
+            "permalink": "africa"
+          }
+        ],
+        "rank": 4895,
+        "rank_mom_pct": 0.333061002178649,
+        "visits_mom_pct": "-0.170564405493956",
+        "visits_pct": 0.118751047052367
+      },
+      {
+        "locations": [
+          {
+            "name": "India",
+            "permalink": "india"
+          },
+          {
+            "name": "Asia",
+            "permalink": "asia"
+          }
+        ],
+        "rank": 35569,
+        "rank_mom_pct": 0.346035950804163,
+        "visits_mom_pct": "-0.347245118511192",
+        "visits_pct": 0.0823465526703446
+      },
+      {
+        "locations": [
+          {
+            "name": "Indonesia",
+            "permalink": "indonesia"
+          },
+          {
+            "name": "Asia",
+            "permalink": "asia"
+          }
+        ],
+        "rank": 20227,
+        "rank_mom_pct": -0.232808647828561,
+        "visits_mom_pct": "0.409703359061937",
+        "visits_pct": 0.0605609312267121
+      },
+      {
+        "locations": [
+          {
+            "name": "Russian Federation",
+            "permalink": "russian-federation"
+          },
+          {
+            "name": "Europe",
+            "permalink": "europe"
+          }
+        ],
+        "rank": 64580,
+        "rank_mom_pct": -0.140960666161193,
+        "visits_mom_pct": "0.467570097624036",
+        "visits_pct": 0.0380370295485399
+      }
+    ],
+    "siftery_products": [
+      {
+        "product_num_customers": 439507,
+        "status": "not_using",
+        "title": "HTML5"
+      },
+      {
+        "status": "using",
+        "title": "Adobe Fonts"
+      },
+      {
+        "status": "not_using",
+        "title": "jQuery"
+      },
+      {
+        "status": "using",
+        "title": "Google Tag Manager"
+      },
+      {
+        "status": "using",
+        "title": "Cloudflare CDN"
+      },
+      {
+        "status": "using",
+        "title": "Wordpress"
+      },
+      {
+        "status": "using",
+        "title": "Bootstrap"
+      },
+      {
+        "status": "using",
+        "title": "HubSpot Marketing Hub"
+      },
+      {
+        "status": "not_using",
+        "title": "Google Analytics"
+      },
+      {
+        "status": "not_using",
+        "title": "F5 NGINX"
+      }
+    ],
+    "bombora": [
+      {
+        "category": "security",
+        "score": 97,
+        "topic": "Security Management",
+        "weeks_surging": 2,
+        "wow_growth": 0.043010752688172
+      },
+      {
+        "category": "technology",
+        "score": 94,
+        "topic": "Rubrik",
+        "weeks_surging": 3,
+        "wow_growth": 0.540983606557377
+      },
+      {
+        "category": "business_service",
+        "score": 93,
+        "topic": "Data as a Service (DaaS)",
+        "weeks_surging": 1
+      },
+      {
+        "category": "security",
+        "score": 93,
+        "topic": "Remediation as Code",
+        "weeks_surging": 1
+      },
+      {
+        "category": "supplychain",
+        "score": 92,
+        "topic": "Transportation Security",
+        "weeks_surging": 3,
+        "wow_growth": 0.373134328358209
+      },
+      {
+        "category": "marketing",
+        "score": 91,
+        "topic": "Email Marketing Services",
+        "weeks_surging": 1
+      },
+      {
+        "category": "software_dev",
+        "score": 91,
+        "topic": "Emulator Testing",
+        "weeks_surging": 1
+      },
+      {
+        "category": "software_dev",
+        "score": 91,
+        "topic": "Software Migration",
+        "weeks_surging": 1
+      },
+      {
+        "category": "business_service",
+        "score": 91,
+        "topic": "Notion",
+        "weeks_surging": 1
+      },
+      {
+        "category": "technology",
+        "score": 90,
+        "topic": "Microsoft Edge (Spartan)",
+        "weeks_surging": 2,
+        "wow_growth": 0.475409836065574
+      }
+    ],
+    "event_appearances": [
+      {
+        "appearance_type": "exhibitor",
+        "event": "RSA Conference 2023",
+        "event_starts_on": "2023-04-24",
+        "image": "ykqvowx9t8vbpi0qa4sd",
+        "permalink": "rsa-conference-2022-8c5d"
+      }
+    ],
+    "apptopia": [
+      {
+        "image": "apptopia/app/apptopia_app.1645893250.",
+        "name": "Bright Rewards - Earn cash",
+        "stores": [
+          "itunes_connect"
+        ],
+        "monthly_downloads": 849
+      },
+      {
+        "image": "apptopia/app/apptopia_app..io.lum.app",
+        "name": "Bright Data EarnApp - Make money from your phone",
+        "stores": [
+          "google_play"
+        ]
+      }
+    ],
+    "sub_organizations": [
+      {
+        "ownee": "Bright Insights",
+        "ownee_permalink": "bright-insights",
+        "ownership_type": "division",
+        "title": "Bright Data owns Bright Insights"
+      }
+    ],
+    "news": [
+      {
+        "date": "2025-04-28",
+        "organization": "Bright Data",
+        "publisher": "EIN Presswire",
+        "title": "With 4.3M+ Tech Community Votes, HackerNoon Announces the Winners of Startups of The Year 2024",
+        "url": "https://www.einpresswire.com/article/803372315/with-4-3m-tech-community-votes-hackernoon-announces-the-winners-of-startups-of-the-year-2024"
+      },
+      {
+        "date": "2025-03-13",
+        "organization": "Bright Data",
+        "publisher": "Digital Journal",
+        "title": "5 tips for acquiring data from the open web to train your team’s AI agents",
+        "url": "https://www.digitaljournal.com/tech-science/5-tips-for-acquiring-data-from-the-open-web-to-train-your-teams-ai-agents/article"
+      },
+      {
+        "date": "2025-03-12",
+        "organization": "Bright Data",
+        "publisher": "Search Engine Journal",
+        "title": "Google AIO: 4 Ways To Find Out If Your Brand Is Visible In Generative AI [With Prompts] via @sejournal, @bright_data",
+        "url": "https://www.searchenginejournal.com/google-aio-serp-rankings-brightdata-spa/541172/"
+      },
+      {
+        "date": "2025-02-04",
+        "organization": "Bright Data",
+        "publisher": "Search Engine Journal",
+        "title": "5 New SEO Ranking Challenges You’re Facing Right Now [& A Fix] via @sejournal, @bright_data",
+        "url": "https://www.searchenginejournal.com/new-seo-ranking-challenges-brightdata-spa/538084/"
+      },
+      {
+        "date": "2024-11-29",
+        "organization": "Bright Data",
+        "publisher": "Media Post",
+        "title": "X Corp. Can Revive Scraping Battle With Bright Data, Judge Rules",
+        "url": "https://www.mediapost.com/publications/article/401510/x-corp-can-revive-scraping-battle-with-bright-dat.html"
+      },
+      {
+        "date": "2024-11-11",
+        "organization": "Bright Data",
+        "publisher": "EIN Presswire",
+        "title": "HackerNoon’s ‘Startups of the Year’ Now Accepting Company Nominations in Programming Industry",
+        "url": "https://www.einpresswire.com/article/757867373/hackernoon-s-startups-of-the-year-now-accepting-company-nominations-in-programming-industry"
+      },
+      {
+        "date": "2024-11-06",
+        "organization": "Bright Data",
+        "publisher": "Google Patent",
+        "title": "System and Method for Improving Content Fetching by Selecting Tunnel Devices",
+        "url": "https://patents.google.com/patent/US20250062930A1/en"
+      },
+      {
+        "date": "2024-10-24",
+        "organization": "Bright Data",
+        "title": "Write About Data Collection for AI and LLM Training, Win from $2500",
+        "url": "https://hackernoon.com/write-about-data-collection-for-ai-and-llm-training-win-from-$2500"
+      },
+      {
+        "date": "2024-10-24",
+        "organization": "Bright Data",
+        "title": "Write About Data Collection for AI and LLM Training, Win from $2500",
+        "url": "https://hackernoon.com/write-about-data-collection-for-ai-and-llm-training-win-from-$2500"
+      },
+      {
+        "date": "2024-10-24",
+        "organization": "Bright Data",
+        "title": "Write About Data Collection for AI and LLM Training, Win from $2500",
+        "url": "https://hackernoon.com/write-about-data-collection-for-ai-and-llm-training-win-from-$2500"
+      }
+    ],
+    "aberdeen_it_spend": {
+      "value": 73802,
+      "currency": "USD",
+      "value_usd": 73802
+    },
+    "headquarters_regions": [
+      {
+        "id": "greater-new-york-area",
+        "value": "Greater New York Area"
+      },
+      {
+        "id": "east-coast-united-states",
+        "value": "East Coast"
+      },
+      {
+        "id": "northeastern-united-states",
+        "value": "Northeastern US"
+      }
+    ],
+    "ipqwery": {
+      "ipqwery_num_patent_granted": 199,
+      "ipqwery_num_trademark_registered": 18,
+      "ipqwery_popular_trademark_class": "c38",
+      "trademark_class_text": "Communication Services"
+    },
+    "overview_highlights": {
+      "num_contacts": 42,
+      "num_current_positions": 347,
+      "num_org_similarities": 9
+    },
+    "people_highlights": {
+      "num_contacts": 42,
+      "num_current_positions": "347"
+    },
+    "technology_highlights": {
+      "builtwith_num_technologies_used": 19,
+      "semrush_visits_latest_month": 865525,
+      "semrush_visits_mom_pct": -0.0668556260889065,
+      "siftery_num_products": 23
+    },
+    "founders": [
+      {
+        "id": "derry-shribman",
+        "type": "person",
+        "value": "Derry Shribman"
+      },
+      {
+        "id": "ofer-vilenski",
+        "type": "person",
+        "value": "Ofer Vilenski"
+      }
+    ],
+    "acquired_by": {
+      "acquirer": "EMK Capital",
+      "acquirer_permalink": "emk-capital",
+      "acquisition_price": {
+        "currency": "USD",
+        "value": 200000000,
+        "value_usd": 200000000
+      },
+      "date": "2017-08-10",
+      "transaction_name": "Bright Data acquired by EMK Capital"
+    },
+    "apptopia_total_downloads": 849,
+    "apptopia_total_downloads_mom_pct": "-0.0449943757030371",
+    "web_traffic_by_semrush": {
+      "global_traffic_rank": null,
+      "monthly_rank_growth_pct": null,
+      "visit_duration": null,
+      "visit_duration_growth_pct": null,
+      "page_views_per_visit": null,
+      "page_views_per_visit_growth_pct": null,
+      "bounce_rate_pct": null,
+      "bounce_rate_growth_pct": null
+    },
+    "products_and_services": [
+      {
+        "product_name": "Residential Proxies",
+        "product_description": "A network of over 72 million real residential IPs from 195 countries, allowing access to any website content while avoiding IP bans and CAPTCHAs."
+      },
+      {
+        "product_name": "Datacenter Proxies",
+        "product_description": "A network of 770,000+ datacenter IPs offering global coverage and the ability to target specific countries and cities for reliable data collection."
+      },
+      {
+        "product_name": "Mobile Proxies",
+        "product_description": "A network of 7 million+ real 3G/4G mobile IPs from around the world, enabling users to see the web as real mobile users and bypass IP location blocks and CAPTCHAs."
+      },
+      {
+        "product_name": "ISP Proxies",
+        "product_description": "700,000+ static residential IPs assigned by ISPs, providing long sessions and exclusive use for as long as needed."
+      },
+      {
+        "product_name": "Rotating Proxies",
+        "product_description": "Proxies that constantly replace your IP address to avoid detection and blocking, with 99.99% uptime and easy management through a Proxy Manager."
+      },
+      {
+        "product_name": "Anonymous Proxies",
+        "product_description": "Proxies that hide your location and IP address, allowing access to public web content anonymously without detection or blocking."
+      }
+    ],
+    "timestamp": "2025-05-05T04:57:14.996Z"
+  }
+]
