@@ -28,7 +28,7 @@ This repository provides two approaches for extracting business intelligence dat
 
 A Python implementation demonstrating how to extract fundamental company data from Crunchbase profiles.
 
-<img width="800" alt="Bright Data Platform Interface" src="https://github.com/user-attachments/assets/03b5a4c6-ba43-4595-bab8-96161740e197" />
+<img width="800" alt="Bright Data Platform Interface" src="https://github.com/luminati-io/crunchbase-scraper/blob/main/images/440236063-03b5a4c6-ba43-4595-bab8-96161740e197.png" />
 
 ### Features
 
@@ -93,7 +93,7 @@ This approach encounters significant [web scraping challenges](https://brightdat
 - **IP Blocking & Rate Limiting:** Crunchbase actively monitors and limits requests from individual IP addresses. Your IP will likely be blocked quickly after some scraping attempts.
 - **Sophisticated Anti-Bot Measures:** Crunchbase employs advanced security, including CAPTCHAs (like [Cloudflare Turnstile](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)) and behavioral analysis, specifically designed to detect and block automated scripts.
 
-  <img width="800" alt="Crunchbase CAPTCHA Challenge" src="https://github.com/user-attachments/assets/44cb5a79-e943-454b-9354-28b78ef67b57" />
+  <img width="800" alt="Crunchbase CAPTCHA Challenge" src="https://github.com/luminati-io/crunchbase-scraper/blob/main/images/440239044-44cb5a79-e943-454b-9354-28b78ef67b57.png" />
 
 - **Dynamic Website Structure:** Crunchbase frequently updates its website layout and code. Any change can break the script, requiring constant, time-consuming maintenance.
 - **Scalability Issues:** This method cannot scale to handle multiple URLs efficiently or process large volumes of data.
@@ -202,7 +202,7 @@ View complete sample response: [crunchbase-data/crunchbase-company-profiles.json
 
 Identifies companies associated with specific keywords or industries (e.g., "AI", "Venture Capital", "SaaS").
 
-<img width="800" alt="Discover by Keyword Interface Example" src="https://github.com/user-attachments/assets/56e59e94-19fa-4977-84a0-4b70c794cb20" />
+<img width="800" alt="Discover by Keyword Interface Example" src="https://github.com/luminati-io/crunchbase-scraper/blob/main/images/440271152-56e59e94-19fa-4977-84a0-4b70c794cb20.png" />
 
 **Input Parameter:**
 
